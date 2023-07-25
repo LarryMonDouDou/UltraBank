@@ -1,0 +1,16 @@
+coins:
+  gold:
+    customModelData: 10
+    type: "GOLD_INGOT"
+    worth: 4096
+    id: "PIECE_OR"
+  silver:
+    customModelData: 20
+    type: "IRON_INGOT"
+    worth: 64
+    id: "PIECE_ARGENT"
+  bronze:
+    customModelData: 30
+    type: "BRICK"
+    worth: 1
+    id: "PIECE_BRONZE"
